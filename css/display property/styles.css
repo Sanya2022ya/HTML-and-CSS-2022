@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+}
+ul li a {
+  color: #f15025;
+  text-decoration: none;
+  background-color: #222;
+  display: block;
+  letter-spacing: 2px;
+  padding: 5px;
+}
+h1 {
+  width: 150px;
+  height: 150px;
+  color: white;
+  box-sizing: border-box;
+}
+.one {
+  background-color: blue;
+  padding: 20px;
+}
+.two {
+  background-color: green;
+}
+.three {
+  background-color: red;
+  padding: 20px;
+}
+.link {
+  background-color: #f15025;
+  display: inline-block;
+}
